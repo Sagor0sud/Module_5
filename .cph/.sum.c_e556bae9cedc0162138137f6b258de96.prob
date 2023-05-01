@@ -1,0 +1,1 @@
+{"name":"Local: sum","url":"g:\\Batch_3\\C Programming\\Module_5\\sum.c","tests":[{"id":1681542921231,"input":"5 6\n10.2 5.2","output":"11 -1\n25.4 5.0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Batch_3\\C Programming\\Module_5\\sum.c","group":"local","local":true}
